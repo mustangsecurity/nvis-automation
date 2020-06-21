@@ -18,3 +18,5 @@ sudo ./debian-docker-setup.sh # IF DEBIAN
 sudo ./ubuntu-docker-setup.sh # IF UBUNTU
 sudo ./nvis-install.sh        # INSTALL NVIS
 ```
+
+Automation scripts developed by Kyle Mistele - github/k-mistele twitter/@0xBlackl1ght
